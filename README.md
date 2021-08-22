@@ -13,6 +13,7 @@
 ### Deployed
 
 - Binance Smart Chain Mainnet: ```0xc81d83c9c875b4a058b83b5b19d104284eaea8c9``` ([link](https://bscscan.com/address/0xc81d83c9c875b4a058b83b5b19d104284eaea8c9))
+- Avalance c-chain mainnet: ```0xC5FbbbFdb6883Ed45b77240B2aB7dfc9900f3B8E``` ([link](https://cchain.explorer.avax.network/address/0xC5FbbbFdb6883Ed45b77240B2aB7dfc9900f3B8E/contracts))
 
 ## Installation & Usage
 
